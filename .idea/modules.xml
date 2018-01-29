@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BusinessBoomerTask.iml" filepath="$PROJECT_DIR$/BusinessBoomerTask.iml" />
+      <module fileurl="file://C:\Users\shika\StudioProjects\products\BusinessBoomerTask.iml" filepath="C:\Users\shika\StudioProjects\products\BusinessBoomerTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\shika\StudioProjects\products\app\app.iml" filepath="C:\Users\shika\StudioProjects\products\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/products.iml" filepath="$PROJECT_DIR$/products.iml" />
     </modules>
   </component>
 </project>
