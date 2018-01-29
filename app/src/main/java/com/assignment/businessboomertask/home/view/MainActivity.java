@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
     ViewPager viewpager;
 
     private int[] tabIcons = {
-      R.drawable.ic_stat_notifications,
+      R.drawable.ic_stat_ac_unit,
         R.drawable.ic_stat_notifications,
 //            R.drawable.ic_tab_contacts
     };
